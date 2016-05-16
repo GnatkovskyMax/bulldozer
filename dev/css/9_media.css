@@ -24,6 +24,7 @@
 	width:100%;
 }
 .button{
+	margin-top:-6px;
 	width:100%;
 }
 }
@@ -54,6 +55,8 @@
 }
 .button{
 	width:50%;
+	height:37px;
+	margin:0 auto;
 }
 
 
